@@ -5516,7 +5516,7 @@
         "minimumLevel" : 9,
         "type" : "slayer"
       } ],
-      "sources" : [ "https://api.hypixel.net/v2/resources/skyblock/items", "https://api.github.com/repos/NotEnoughUpdates/NotEnoughUpdates-REPO/git/blobs/bcedc2cd19fa31f82762d5911d62e1abce73b03f" ]
+      "sources" : [ "https://api.hypixel.net/v2/resources/skyblock/items", "https://api.github.com/repos/NotEnoughUpdates/NotEnoughUpdates-REPO/git/blobs/c42fc1c5f20a727b29d0524719661c2e339d5350" ]
     },
     "craft/REVENANT_LEGGINGS" : {
       "requirements" : [ {
